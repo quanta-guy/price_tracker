@@ -69,7 +69,6 @@ The flow of data within the app starts with user inputs such as login details, e
 5. When tracked prices drop, FCM sends notifications to users.
 6. Users receive notifications on their devices via FCM.
 
-(Continue with user flows for other scenarios)
 
 ## External Services
 
@@ -95,10 +94,6 @@ The Price Tracker app utilizes the following third-party libraries:
 - Flask
 - firebase-admin
 - requests
-
-## Architecture Diagram
-
-![Architecture Diagram](architecture_diagram.png)
 
 ## Author
 
