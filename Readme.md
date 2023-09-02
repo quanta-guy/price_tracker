@@ -95,9 +95,6 @@ The Price Tracker app utilizes the following third-party libraries:
 - firebase-admin
 - requests
 
-## Architecture Diagram
-
-![Architecture Diagram](architecture_diagram.png)
 
 ## Author
 
