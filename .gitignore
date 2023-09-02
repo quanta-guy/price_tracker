@@ -1,0 +1,49 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+/PriceTrackerApp/migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+/PriceTrackerApp/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+/PriceTrackerApp/**/ios/Flutter/.last_build_id
+/PriceTrackerApp/.dart_tool/
+/PriceTrackerApp/.flutter-plugins
+/PriceTrackerApp/.flutter-plugins-dependencies
+/PriceTrackerApp/.packages
+/PriceTrackerApp/.pub-cache/
+/PriceTrackerApp/.pub/
+/PriceTrackerApp/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/PriceTrackerApp/android/app/debug
+/PriceTrackerApp/android/app/profile
+/PriceTrackerApp/android/app/release
+
+#secretes
+/PriceTrackerApp/lib/services/firebase_options.dart
+
+

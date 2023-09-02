@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "930473203875",
+    "project_id": "price-drop-tracker-73c57",
+    "storage_bucket": "price-drop-tracker-73c57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930473203875:android:b5a0c10dafb4b01db50716",
+        "android_client_info": {
+          "package_name": "com.example.price_tracker_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930473203875-7c0lf7cc5u78nf4rljmr5aqk6p7j26fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.price_tracker_v1",
+            "certificate_hash": "da9256d49563e749759a2dd3fdcca2e53be74bc9"
+          }
+        },
+        {
+          "client_id": "930473203875-cagvl4rou34rui5vpsk06grv7sjb38gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.price_tracker_v1",
+            "certificate_hash": "54060e22d325b98358c790aa1d46b0359fb9744f"
+          }
+        },
+        {
+          "client_id": "930473203875-hf5g5h9oem2d9c0l63sb7ltn57ffgvat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAea5FMHO-cSgsaH0p3XW3AN0IpDoqanpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930473203875-7lpin7vhd6m250hsq3mrtig1l3pl7h5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930473203875-h2k32di03obkuj8adcpjvs92dhhaar5u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.priceTrackerV1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+beautifulsoup4
+flask_cors
+requests
+flask
+flask_restful
+gunicorn
+firebase-admin

@@ -1,0 +1,60 @@
+name: price_tracker
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  beautiful_soup_dart: ^0.3.0
+  http: ^0.13.5
+  requests: ^4.7.0
+  firebase_auth: ^4.6.1
+  firebase_core: ^2.13.1
+  flutterfire_ui: ^0.4.3+20
+  google_sign_in: ^5.4.4
+  provider: ^6.0.5
+  cloud_firestore: ^4.7.1
+  flutter_local_notifications: ^14.1.1
+  firebase_messaging: ^14.6.2
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/Images/icons/1024.png"
+  
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+   - assets/Images/
+
+  fonts:
+    - family: Schyler
+      fonts:
+        - asset: assets/fonts/SchibstedGrotesk-Bold.ttf
+    - family: Itim
+      fonts:
+        - asset: assets/fonts/Itim-Regular.ttf
