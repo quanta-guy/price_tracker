@@ -105,4 +105,4 @@ For any inquiries or feedback, feel free to contact me at [vkanthishnu@gmail.com
 
 ---
 
-License: [MIT License](LICENSE)
+License: [MIT License](https://github.com/quanta-guy/price_tracker/blob/master/License.txt)https://github.com/quanta-guy/price_tracker/blob/master/License.txt)
