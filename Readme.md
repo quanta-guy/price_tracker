@@ -1,5 +1,6 @@
 # Price Tracker App
-
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ## Introduction
 
 The Price Tracker app is designed to help users track product prices and receive notifications when prices drop to their desired levels. This documentation provides a comprehensive overview of the app's features, architecture, and user flows.
